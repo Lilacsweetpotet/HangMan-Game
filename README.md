@@ -26,10 +26,6 @@ JavaScript
 
 Session storage via PHP $_SESSION
 
-File-based leaderboard (JSON)
-
-(This project have not a database, scores are stored in leaderboard.json in the project directory.)
-
 -
 
 Team Members and Contributions
