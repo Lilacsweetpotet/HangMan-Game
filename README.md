@@ -24,8 +24,6 @@ CSS
 
 JavaScript
 
-Session storage via PHP $_SESSION
-
 -
 
 Team Members and Contributions
@@ -60,13 +58,13 @@ Controls: click/tap the letters or press the letter buttons on-screen.
 
 Game mechanics:
 -
--Category selects a word bank
+-Category selects a word bank.
 
 -Each wrong guess increments the hangman stage.
 
--the allowed wrong guesses
+-Only have a limited allowed wrong guesses.
 
--and the time limit
+-and it has a time limit.
 
 How to Run the Program (local)
 -
