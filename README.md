@@ -18,7 +18,7 @@ Technology Stack
 -
 PHP
 
-HTML5
+HTML
 
 CSS 
 
