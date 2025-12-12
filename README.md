@@ -46,11 +46,11 @@ How to Play
 -
 1.Open the game in a browser (see How to Run below).
 
-2.Choose a difficulty from the dropdown (Easy, Medium, Hard) and click New Game.
+2.Choose a category (animals, country,fruits, food, sports).
 
 3.Guess letters by clicking the letter buttons. Correct letters are revealed in the word display.
 
-4.If you reveal all letters before the wrong-limit/time runs out, you win and may save your score.
+4.If you reveal all letters before the wrong-limit/time runs out, you win.
 
 -
 
