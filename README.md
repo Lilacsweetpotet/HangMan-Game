@@ -22,6 +22,8 @@ HTML5
 
 CSS 
 
+JavaScript
+
 Session storage via PHP $_SESSION
 
 File-based leaderboard (JSON)
@@ -52,11 +54,7 @@ How to Play
 
 3.Guess letters by clicking the letter buttons. Correct letters are revealed in the word display.
 
-4.Use Show Hint to reveal a hint at the cost of one wrong guess.
-
-5.If you reveal all letters before the wrong-limit/time runs out, you win and may save your score.
-
-6.Leaderboard shows saved player names and scores.
+4.If you reveal all letters before the wrong-limit/time runs out, you win and may save your score.
 
 -
 
@@ -66,15 +64,13 @@ Controls: click/tap the letters or press the letter buttons on-screen.
 
 Game mechanics:
 -
--Difficulty selects a word bank, the allowed wrong guesses, and the time limit.
+-Category selects a word bank
 
 -Each wrong guess increments the hangman stage.
 
--Hints can be used once per game, and cost one wrong guess.
+-the allowed wrong guesses
 
--Score calculation uses accuracy, elapsed time, difficulty multiplier, and a base value (see Technical Documentation).
-
--
+-and the time limit
 
 How to Run the Program (local)
 -
@@ -96,7 +92,7 @@ Steps:
 
 3.Open Xampp and then Start APACHE
 
-4.Open your browser then type "http://localhost/hangman/hangman_game.php"
+4.Open your browser then type "http://localhost/hangman/game.php"
 
 5.Play the game.
 
